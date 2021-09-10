@@ -19,5 +19,7 @@ public class Test {
         System.out.println("hot-fix commit2");
         System.out.println("push commit");
         System.out.println("push commit2");
+        System.out.println("Hello world");
+
     }
 }
