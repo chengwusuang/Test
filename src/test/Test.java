@@ -10,5 +10,6 @@ public class Test {
 
         System.out.println("hello");
         System.out.println("first commit");
+        System.out.println("checkout");
     }
 }
