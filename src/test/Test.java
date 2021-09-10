@@ -13,5 +13,7 @@ public class Test {
         System.out.println("checkout");
         System.out.println("master commit");
         System.out.println("hot-fix test");
+        System.out.println("master commit2");
+        System.out.println("hot-fix commit2");
     }
 }
